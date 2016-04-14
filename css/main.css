@@ -1,0 +1,113 @@
+*{
+	outline: 1px solid rgba(255,0,0,0.2);
+}
+img{
+	max-width: 100%;
+}
+ul{
+	list-style: none;
+	padding: 5px 0px;
+	margin:10px 0px;
+	border-bottom: 1px solid black;
+	border-top: 1px solid black;
+}
+li{
+	display: inline-block;
+	border-right:1px solid gray;
+}
+
+h3{
+	font-size: 14px;
+	text-align: left;
+}
+.container{
+    width: 500px;
+    margin: 0 auto;	         
+}
+.lista-menu a{
+	text-decoration: none;
+	color:gray;
+	display: block;
+	padding: 8px 10px;
+}
+li:last-child{
+	border-right: none;
+}
+.Todos{
+	height: 375px;
+}
+.rayita{
+    border: 2px solid gray;
+    width: 40px;
+}
+.raya{
+	border: 2px solid black;
+	width: 50px;
+	margin-left: 0px;
+}
+.cuadro{
+	margin: 20px 0 0 0;
+}      
+.caja {
+	display: inline-block;
+    width: 28%;
+    margin: 8px;
+    }
+.caja a{
+   position: relative;
+   text-decoration: none;
+   color:white;
+   display: block;
+   height: 140px;
+}
+.caja p{
+	position: absolute;
+	font-size: 12px;
+	bottom: 0px;
+	right: 10px;
+}
+.letras{
+	font-size: 18px;
+}
+/*coder detail*/
+.container-coder{
+	width: 500px;
+	border:2px solid gray;
+	margin: auto;
+	padding: 30px;
+	text-align: justify;
+}
+.foto{
+	border-radius: 50%;
+	margin:auto;
+	margin-top: 40px;
+	display: block;
+	width: 150px;
+}
+.nombre, .info{
+	text-align: center;
+}
+.hab{
+    background-color: gray;
+    margin:8px;
+    padding: 5px;
+    color:white;
+}
+.htt{
+	width: 400px;
+}
+.css{
+	width: 200px;
+}
+.jav{
+	width: 100px;
+}
+.portafolio div{
+    display: inline-block;
+    width: 28%;
+    margin: 8px;
+    height: 93.325px;
+}
+.portafolio{
+	text-align: center;
+}
